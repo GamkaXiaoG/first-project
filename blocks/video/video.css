@@ -1,0 +1,12 @@
+.video__frames {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  margin-top: 50px;
+}
+
+.video__frame {
+  width: 515px;
+  height: 316px;
+  border: 0;
+}

@@ -1,0 +1,15 @@
+.resources {
+  margin-top: 100px;
+  margin-bottom: 217px;
+}
+
+.resources__logo-zone {
+  margin-top: 80px;
+  text-align: center
+}
+
+.resources__link {
+  display: inline-block;
+  width: 270px;
+  height: 38px;
+}

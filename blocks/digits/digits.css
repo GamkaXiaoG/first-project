@@ -1,0 +1,54 @@
+body {
+  font-family: "Inter", "Arial", sans-serif;
+}
+
+.digits {
+  margin-top: 100px;
+}
+
+.section-title {
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.section-subtitle {
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 30px;
+  justify-content: center;
+}
+
+.digits__table {
+  max-width: 1100px;
+  margin: 0 auto 100px;
+}
+
+.table__cell {
+  width: 250px;
+}
+
+.table__heading {
+  line-height: 27px;
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.table__text {
+  padding-right: 15px;
+  line-height: 21px;
+  font-size: 18px;
+}
+
+.table__span-accent {
+  display: inline-block;
+  margin-top: 20px;
+}

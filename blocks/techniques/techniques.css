@@ -1,0 +1,40 @@
+.subtitle_margin_bot_off {
+  margin-bottom: 0;
+}
+
+.techniques {
+  margin-bottom: 100px;
+}
+
+.cards {
+  width: 920px;
+  margin: 60px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px 100px;
+}
+
+.cards__item {
+  width: 240px;
+  text-align: center;
+}
+
+.cards__image {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.cards__title {
+  margin-top: 43px;
+  margin-bottom: 16px;
+  line-height: 27px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.cards__description {
+  line-height: 23px;
+  font-size: 18px;
+}
