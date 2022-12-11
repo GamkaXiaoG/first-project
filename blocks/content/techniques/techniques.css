@@ -1,14 +1,15 @@
-.subtitle_margin_bot_off {
-  margin-bottom: 0;
-}
+
+
 
 .techniques {
   margin-bottom: 100px;
+  width: 80%;
+  margin: auto;
 }
 
 .cards {
   width: 920px;
-  margin: 60px auto;
+  margin: 60px auto 100px auto;
   display: flex;
   flex-wrap: wrap;
   gap: 60px 100px;
@@ -37,4 +38,6 @@
 .cards__description {
   line-height: 23px;
   font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
 }

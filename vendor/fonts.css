@@ -16,5 +16,5 @@
   font-family: "Inter";
   src: url(../vendor/fonts/Inter/Inter-Bold.woff) format('woff'),
        url(../vendor/fonts/Inter/Inter-Bold.woff2) format('woff2');
-  font-weight: bold;
+  font-weight: 700;
 }

@@ -8,6 +8,16 @@
   text-align: center
 }
 
+.resources__logo-zone a {
+  display: inline-block;
+  transition: opacity .5s ease;
+}
+
+.resources__logo-zone a:hover {
+  opacity: .5;
+  display: inline-block;
+}
+
 .resources__link {
   display: inline-block;
   width: 270px;
