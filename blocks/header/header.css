@@ -1,4 +1,3 @@
-
 .header {
   background-color: #f2f2f2;
   position: relative;
@@ -8,73 +7,4 @@
   overflow: hidden;
   display: flex;
   align-items: center;
-}
-
-.logo {
-  font-size: 32px;
-  font-weight: 700;
-}
-
-.logo_place_header {
-  margin: 0;
-  position: absolute;
-  top: 30px;
-  left: 64px;
-  z-index: 2;
-}
-
-.header__title {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 64px;
-  width: 730px;
-  font-size: 102px;
-  font-weight: 600;
-  line-height: 96px;
-  z-index: 2;
-}
-
-.header__subtitle {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 18px;
-  line-height: 25px;
-  position: absolute;
-  left: 64px;
-  bottom: 30px;
-  width: 388px;
-  z-index: 2;
-}
-
-.header__link {
-  text-decoration: none;
-  color: #2f80ed;
-  position: relative;
-  transition: opacity .5s ease;
-}
-
-.header__link:hover {
-  opacity: .5;
-}
-
-.header__main-illustration {
-  width: 765px;
-  height: 608px;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: 1;
-}
-
-.header__square-pic {
-  width: 568px;
-  height: 568px;
-  background-color: #2f80ed;
-  position: absolute;
-  top: 64px;
-  right: 0;
-}
-
-.rotation {
-  animation: rotation 20s linear .5s infinite;
 }
